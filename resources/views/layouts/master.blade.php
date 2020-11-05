@@ -3,9 +3,12 @@
 <!DOCTYPE html>
 <html lang="es">
     <head>
+<<<<<<< HEAD
 
 
     
+=======
+>>>>>>> 35e56cb79f7ec7b13f728e69d471caa484f70bbf
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
