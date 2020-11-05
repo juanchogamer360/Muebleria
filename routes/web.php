@@ -96,7 +96,6 @@ if(!$resultado){//COMPRUEBA QUE SE ENCONTRO EL PRODUCTO
 });
 
 
-<<<<<<< HEAD
 Route::resource('ventas', 'VentaController')->middleware('auth');
 
 Route::resource('empleados', 'EmpleadosController')->middleware('auth');
@@ -108,8 +107,3 @@ Route::view('login', 'login')->name('inicio-sesion');
 Auth::routes(['reset'=>false, 'register'=>false]);
 
 Route::get('/home', 'HomeController@index')->name('home');
-=======
-Route::resource('productos', 'ProductosController');
-
-Route::view('login', 'login')->name('inicio-sesion');
->>>>>>> 35e56cb79f7ec7b13f728e69d471caa484f70bbf
