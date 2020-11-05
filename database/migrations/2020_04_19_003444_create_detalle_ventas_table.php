@@ -27,7 +27,7 @@ class CreateDetalleVentasTable extends Migration
 
     /**
      * Reverse the migrations.
-     *
+     * diferente
      * @return void
      */
     public function down()
